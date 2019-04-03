@@ -1,3 +1,4 @@
 this is an edited file 
 adding changes by vi editor
 take some more changes in anotherBranch from terminal  
+adding changes from github page in anotherBranch
