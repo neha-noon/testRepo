@@ -1,3 +1,3 @@
 this is an edited file 
 adding changes by vi editor
-take some more changes  
+take some more changes in anotherBranch from terminal  
